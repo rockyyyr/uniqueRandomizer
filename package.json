@@ -6,5 +6,8 @@
   "keywords": ["unique, random, number, numbers"],
   "author": "Rocky Robson",
   "license": "MIT",
-  "homepage": "https://github.com/rockyyyr/uniqueRandomizer"
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rockyyyr/uniqueRandomizer.git"
+  }
 }
