@@ -1,9 +1,9 @@
 {
-  "name": "unnique randomizer",
+  "name": "unique-randomizer",
   "version": "1.0.0",
   "description": "Generate and track unique random numbers",
   "main": "randomizer.js",
-  "keywords": ["unique, random, number, numbers, pool"],
+  "keywords": ["unique, random, number, numbers"],
   "author": "Rocky Robson",
   "license": "MIT",
   "homepage": "https://github.com/rockyyyr/uniqueRandomizer"
